@@ -40,7 +40,3 @@ observe('textarea.autosize', { subscribe: autosize })
 npm install
 npm test
 ```
-
-## License
-
-Distributed under the MIT license. See LICENSE for details.
